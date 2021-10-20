@@ -1,0 +1,25 @@
+table{
+  margin: 0 auto;
+  text-align: center;
+}
+img:hover{
+  opacity: 1.0;
+}
+img{
+  opacity: 0.3;
+}
+tr:nth-child(3n+1){
+background-color:silver;
+}
+tr:nth-child(3n+3){
+  background-color:gray;
+}
+th{
+  background-color: gold;
+}
+.sample{
+  color: red;
+}
+#sample {
+  color: blue;
+}
